@@ -1,0 +1,46 @@
+===========================================
+       RAPORT FINAL DEFECT #102
+===========================================
+Raport generat la: 15-05-2026 08:22:48
+ID raport: 2
+
+--- INFORMATII DEFECT ---
+Titlu: Vibratii puternice la robotul de sudura
+Descriere: Robotul are vibratii anormale la sudarea pragului stang
+Mod reproducere: Apare la fiecare a 10-a caroserie procesata
+Linia de productie: 3
+Cod utilaj: RBT-SUD-04
+
+--- CLASIFICARE ---
+Componenta afectata: RobotSudura
+Severitate: MAJORA
+Prioritate: INALTA
+Status final: REZOLVAT
+
+--- PERSOANE IMPLICATE ---
+Raportor: Elena Tudor (elena.t@fabrica.ro)
+Inginer asignat: Cristina Dobre (specializare: Robotica)
+
+--- CRONOLOGIE ---
+Data raportarii: 15-05-2026 08:22:48
+Data rezolvarii: 15-05-2026 08:22:48
+Timp total rezolvare: 0 minute
+
+--- JUSTIFICARE TRIAJ AUTOMAT ---
+Defect clasificat ca MAJORA, prioritate INALTA, componenta 'RobotSudura'. Nivel minim de experienta necesar: 2. Asignat lui Cristina Dobre (specializare: Robotica, nivel experienta: 2/5, incarcare: 1 defecte)
+
+--- ISTORIC COMPLET ---
+1. [15-05-2026 08:22:48] Sistem - Defect creat
+2. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (NOU -> IN_TRIAJ)
+3. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (IN_TRIAJ -> ASIGNAT)
+4. [15-05-2026 08:22:48] AsistentVirtual - Triaj automat: Defect clasificat ca MAJORA, prioritate INALTA, componenta 'RobotSudura'. Nivel minim de experienta necesar: 2. Asignat lui Cristina Dobre (specializare: Robotica, nivel experienta: 2/5, incarcare: 1 defecte)
+5. [15-05-2026 08:22:48] Cristina Dobre - Defect preluat de inginer (ASIGNAT -> IN_LUCRU)
+6. [15-05-2026 08:22:48] Cristina Dobre - Defect rezolvat. Solutie: Inlocuit rulmentul uzat la axa 3 si recalibrat robotul. (IN_LUCRU -> REZOLVAT)
+
+--- COMENTARII ---
+1. [15-05-2026 08:22] Cristina Dobre: Inspectez axele si rulmentii bratului robotic.
+2. [15-05-2026 08:22] Cristina Dobre: Detectata uzura la rulmentul axei 3.
+
+===========================================
+            SFARSIT RAPORT
+===========================================

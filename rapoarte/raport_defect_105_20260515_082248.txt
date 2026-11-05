@@ -1,0 +1,45 @@
+===========================================
+       RAPORT FINAL DEFECT #105
+===========================================
+Raport generat la: 15-05-2026 08:22:48
+ID raport: 4
+
+--- INFORMATII DEFECT ---
+Titlu: Afisaj panou control intermitent
+Descriere: Afisajul panoului de control linia 1 palpaie din cand in cand
+Mod reproducere: La fiecare 30 de minute aproximativ
+Linia de productie: 1
+Cod utilaj: PNL-CTL-01
+
+--- CLASIFICARE ---
+Componenta afectata: PanouControl
+Severitate: COSMETICA
+Prioritate: SCAZUTA
+Status final: REZOLVAT
+
+--- PERSOANE IMPLICATE ---
+Raportor: Vasile Radulescu (vasile.r@fabrica.ro)
+Inginer asignat: Ana Marinescu (specializare: Electric)
+
+--- CRONOLOGIE ---
+Data raportarii: 15-05-2026 08:22:48
+Data rezolvarii: 15-05-2026 08:22:48
+Timp total rezolvare: 0 minute
+
+--- JUSTIFICARE TRIAJ AUTOMAT ---
+Defect clasificat ca COSMETICA, prioritate SCAZUTA, componenta 'PanouControl'. Nivel minim de experienta necesar: 1. Asignat lui Ana Marinescu (specializare: Electric, nivel experienta: 3/5, incarcare: 1 defecte)
+
+--- ISTORIC COMPLET ---
+1. [15-05-2026 08:22:48] Sistem - Defect creat
+2. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (NOU -> IN_TRIAJ)
+3. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (IN_TRIAJ -> ASIGNAT)
+4. [15-05-2026 08:22:48] AsistentVirtual - Triaj automat: Defect clasificat ca COSMETICA, prioritate SCAZUTA, componenta 'PanouControl'. Nivel minim de experienta necesar: 1. Asignat lui Ana Marinescu (specializare: Electric, nivel experienta: 3/5, incarcare: 1 defecte)
+5. [15-05-2026 08:22:48] Ana Marinescu - Defect preluat de inginer (ASIGNAT -> IN_LUCRU)
+6. [15-05-2026 08:22:48] Ana Marinescu - Defect rezolvat. Solutie: Resetat panou control. Cablu de date fixat. (IN_LUCRU -> REZOLVAT)
+
+--- COMENTARII ---
+(fara comentarii)
+
+===========================================
+            SFARSIT RAPORT
+===========================================

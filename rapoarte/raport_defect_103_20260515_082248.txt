@@ -1,0 +1,45 @@
+===========================================
+       RAPORT FINAL DEFECT #103
+===========================================
+Raport generat la: 15-05-2026 08:22:48
+ID raport: 3
+
+--- INFORMATII DEFECT ---
+Titlu: Blocare banda transportoare linia 2
+Descriere: Banda transportoare s-a blocat complet, productia oprita
+Mod reproducere: Aparitie brusca la 14:30
+Linia de productie: 2
+Cod utilaj: BND-02
+
+--- CLASIFICARE ---
+Componenta afectata: BandaTransportoare
+Severitate: CRITICA
+Prioritate: URGENTA
+Status final: REZOLVAT
+
+--- PERSOANE IMPLICATE ---
+Raportor: Vasile Radulescu (vasile.r@fabrica.ro)
+Inginer asignat: Ion Popescu (specializare: Mecanic)
+
+--- CRONOLOGIE ---
+Data raportarii: 15-05-2026 08:22:48
+Data rezolvarii: 15-05-2026 08:22:48
+Timp total rezolvare: 0 minute
+
+--- JUSTIFICARE TRIAJ AUTOMAT ---
+Defect clasificat ca CRITICA, prioritate URGENTA, componenta 'BandaTransportoare'. Nivel minim de experienta necesar: 3. Asignat lui Ion Popescu (specializare: Mecanic, nivel experienta: 4/5, incarcare: 1 defecte)
+
+--- ISTORIC COMPLET ---
+1. [15-05-2026 08:22:48] Sistem - Defect creat
+2. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (NOU -> IN_TRIAJ)
+3. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (IN_TRIAJ -> ASIGNAT)
+4. [15-05-2026 08:22:48] AsistentVirtual - Triaj automat: Defect clasificat ca CRITICA, prioritate URGENTA, componenta 'BandaTransportoare'. Nivel minim de experienta necesar: 3. Asignat lui Ion Popescu (specializare: Mecanic, nivel experienta: 4/5, incarcare: 1 defecte)
+5. [15-05-2026 08:22:48] Ion Popescu - Defect preluat de inginer (ASIGNAT -> IN_LUCRU)
+6. [15-05-2026 08:22:48] Ion Popescu - Defect rezolvat. Solutie: Indepartat obiect strain (piesa cazuta de pe linie). Banda functionala. (IN_LUCRU -> REZOLVAT)
+
+--- COMENTARII ---
+1. [15-05-2026 08:22] Ion Popescu: Banda blocata din cauza unui obiect strain.
+
+===========================================
+            SFARSIT RAPORT
+===========================================

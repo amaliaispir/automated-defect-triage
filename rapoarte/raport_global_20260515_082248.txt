@@ -1,0 +1,8 @@
+=== RAPORT GLOBAL ===
+Generat de: Maria Director
+Total defecte: 5
+  - Noi / in triaj: 0
+  - In lucru: 1
+  - Rezolvate: 0
+  - Inchise: 4
+  - Respinse: 0

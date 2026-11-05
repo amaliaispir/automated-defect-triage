@@ -1,0 +1,48 @@
+===========================================
+       RAPORT FINAL DEFECT #101
+===========================================
+Raport generat la: 15-05-2026 08:22:48
+ID raport: 1
+
+--- INFORMATII DEFECT ---
+Titlu: Scurgere ulei la presa hidraulica
+Descriere: Se observa scurgere ulei la baza presei hidraulice principale
+Mod reproducere: Vizibil dupa fiecare ciclu de presare
+Linia de productie: 1
+Cod utilaj: PRS-HID-01
+
+--- CLASIFICARE ---
+Componenta afectata: SistemHidraulic
+Severitate: CRITICA
+Prioritate: INALTA
+Status final: REZOLVAT
+
+--- PERSOANE IMPLICATE ---
+Raportor: Vasile Radulescu (vasile.r@fabrica.ro)
+Inginer asignat: Radu Stoica (specializare: Hidraulic)
+
+--- CRONOLOGIE ---
+Data raportarii: 15-05-2026 08:22:48
+Data rezolvarii: 15-05-2026 08:22:48
+Timp total rezolvare: 0 minute
+
+--- JUSTIFICARE TRIAJ AUTOMAT ---
+Defect clasificat ca CRITICA, prioritate INALTA, componenta 'SistemHidraulic'. Nivel minim de experienta necesar: 3. Asignat lui Radu Stoica (specializare: Hidraulic, nivel experienta: 5/5, incarcare: 1 defecte)
+
+--- ISTORIC COMPLET ---
+1. [15-05-2026 08:22:48] Sistem - Defect creat
+2. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (NOU -> IN_TRIAJ)
+3. [15-05-2026 08:22:48] AsistentVirtual - Status modificat (IN_TRIAJ -> ASIGNAT)
+4. [15-05-2026 08:22:48] AsistentVirtual - Triaj automat: Defect clasificat ca CRITICA, prioritate INALTA, componenta 'SistemHidraulic'. Nivel minim de experienta necesar: 3. Asignat lui Radu Stoica (specializare: Hidraulic, nivel experienta: 5/5, incarcare: 1 defecte)
+5. [15-05-2026 08:22:48] Radu Stoica - Defect preluat de inginer (ASIGNAT -> IN_LUCRU)
+6. [15-05-2026 08:22:48] Radu Stoica - Defect rezolvat. Solutie: Inlocuita garnitura cilindrului principal cu una noua de calitate superioara. (IN_LUCRU -> REZOLVAT)
+
+--- COMENTARII ---
+1. [15-05-2026 08:22] Radu Stoica: Am inceput diagnoza. Verific garnitura cilindrului principal.
+2. [15-05-2026 08:22] Radu Stoica: Garnitura uzata, comand piesa de schimb.
+3. [15-05-2026 08:22] Vasile Radulescu: Productia poate continua pe linia 2 pana se rezolva?
+4. [15-05-2026 08:22] Radu Stoica: Da, am izolat zona afectata. Inlocuire in 2 ore.
+
+===========================================
+            SFARSIT RAPORT
+===========================================
